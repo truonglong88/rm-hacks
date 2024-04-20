@@ -42,7 +42,7 @@ For your convenience, we've provided an automated installation script.
 4. If prompted restart your device.
 
 ```shell
-bash -c "$(wget https://raw.githubusercontent.com/mb1986/rm-hacks/main/install.sh -O-)"
+bash -c "$(wget https://raw.githubusercontent.com/truonglong88/rm-hacks/main/install.sh -O-)"
 ```
 
 ### Uninstallation
@@ -52,7 +52,7 @@ please follow the same sequence as for installation,
 but use the command below in step 2.
 
 ```shell
-bash -c "$(wget https://raw.githubusercontent.com/mb1986/rm-hacks/main/install.sh -O-)" _ uninstall
+bash -c "$(wget https://raw.githubusercontent.com/truonglong88/rm-hacks/main/install.sh -O-)" _ uninstall
 ```
 
 ## Patches
